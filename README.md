@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I’m Benson
 
-<!--
-**Benson-SNSoft/Benson-SNSoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 Position / Job Role
 
-Here are some ideas to get you started:
+QA Automation Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🏢 Department / Team
+
+Quality Assurance 
+
+---
+
+## 📫 Contact
+- Work Email: bensonngu@snsoft.my
+- Company Internal Contact: Lark 
+
+---
+
+## 🌐 Personal GitHub
+
+👉 Private Projects & Personal Repos:
+<kbd>https://github.com/bensonngu</kbd>
